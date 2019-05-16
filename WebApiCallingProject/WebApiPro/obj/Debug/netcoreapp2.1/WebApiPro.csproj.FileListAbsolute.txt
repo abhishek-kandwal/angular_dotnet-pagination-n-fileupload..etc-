@@ -15,3 +15,20 @@ C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\WebAp
 C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.csproj.CopyComplete
 C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\DBHelper.dll
 C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\DBHelper.pdb
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\WebApiPro.deps.json
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\WebApiPro.runtimeconfig.json
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\WebApiPro.runtimeconfig.dev.json
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\WebApiPro.dll
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\WebApiPro.pdb
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\DBHelper.dll
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\bin\Debug\netcoreapp2.1\DBHelper.pdb
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.csprojAssemblyReference.cache
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.csproj.CoreCompileInputs.cache
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.RazorAssemblyInfo.cache
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.RazorAssemblyInfo.cs
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.AssemblyInfoInputs.cache
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.AssemblyInfo.cs
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.RazorTargetAssemblyInfo.cache
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.csproj.CopyComplete
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.dll
+C:\Users\Aviici\Documents\angular_dotnetcore( pagination_fileupload)\angular_dotnet-pagination-n-fileupload..etc-\WebApiCallingProject\WebApiPro\obj\Debug\netcoreapp2.1\WebApiPro.pdb

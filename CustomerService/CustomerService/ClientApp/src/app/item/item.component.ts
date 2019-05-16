@@ -14,6 +14,7 @@ export class ItemComponent {
   public message: string;
   public fileLocation: any;
   public path: any;
+  public fileAddress: any;
   @Output() public onUploadFinished = new EventEmitter();
 
   public categories: any;
@@ -67,10 +68,14 @@ export class ItemComponent {
           this.message = 'Upload success.';
           this.onUploadFinished.emit(event.body);
           this.path = event.body['fullPath'];
+          this.ItemMasterModel.Address = this.path;
+          this.Save();
         }
-        this.ItemMasterModel.Address = this.path;
+        
         console.log(this.path);
+        console.log(event);
       });
+    
   }
 }
 

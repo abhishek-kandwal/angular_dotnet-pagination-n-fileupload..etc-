@@ -1,0 +1,5 @@
+sqlite : build in database for android studio
+create app
+create db
+create table
+insert data

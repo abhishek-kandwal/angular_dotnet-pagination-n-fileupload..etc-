@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aviici\\Documents\\Visual Studio 2017\\Projects\\WebApiCallingProject\\DBHelper\\DBHelperr.csproj",
-      "projectName": "DBHelperr",
-      "projectPath": "C:\\Users\\Aviici\\Documents\\Visual Studio 2017\\Projects\\WebApiCallingProject\\DBHelper\\DBHelperr.csproj",
+      "projectUniqueName": "C:\\Users\\Aviici\\Documents\\angular_dotnetcore( pagination_fileupload)\\angular_dotnet-pagination-n-fileupload..etc-\\WebApiCallingProject\\DBHelper\\DBHelper.csproj",
+      "projectName": "DBHelper",
+      "projectPath": "C:\\Users\\Aviici\\Documents\\angular_dotnetcore( pagination_fileupload)\\angular_dotnet-pagination-n-fileupload..etc-\\WebApiCallingProject\\DBHelper\\DBHelper.csproj",
       "packagesPath": "C:\\Users\\Aviici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aviici\\Documents\\Visual Studio 2017\\Projects\\WebApiCallingProject\\DBHelper\\obj\\",
+      "outputPath": "C:\\Users\\Aviici\\Documents\\angular_dotnetcore( pagination_fileupload)\\angular_dotnet-pagination-n-fileupload..etc-\\WebApiCallingProject\\DBHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

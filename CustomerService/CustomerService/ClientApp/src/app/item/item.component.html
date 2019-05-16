@@ -15,8 +15,7 @@
 
   <div class="row" style="margin-bottom:15px;">
     <div class="col-md-3">
-      <input type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
-      <button type="button" class="btn btn-success" (click)="file.click()">Upload File</button>
+      <input type="file" #file placeholder="Choose file"  >
     </div>
     <div class="col-md-4">
       <span class="upload" *ngIf="progress > 0">
@@ -28,7 +27,7 @@
     </div>
   </div>
 
-  <input (click)="Save()" type="button" style="margin-left:110px;width:55px;" value="Save" />
+  <input (click)="uploadFile(file.files)" type="button" style="margin-left:110px;width:55px;" value="Save" />
 
 </form>
 
