@@ -1,0 +1,35 @@
+<h1>Upload Item brochure</h1>
+
+<p *ngIf="!categories"><em>Loading...</em></p>
+<form style="margin-top:40px;" id="ItemForm">
+  <label>Select Item:</label>
+
+  <select style="margin-left:40px;" [(ngModel)]="ItemMasterModel.ItemName" name="itemName">
+    <option *ngFor="let category of categories" value="{{category.itemName}}">{{category.itemName}}</option>
+  </select>
+  <br /><br />
+
+
+  <label>Item Address:</label>
+  <input [(ngModel)]="ItemMasterModel.Address" name="Address" type="text" style="width:80%; margin-left:30px;" placeholder="{{fileLocation?.fullPath}}" autocomplete="off" disabled="disabled" />
+
+  <div class="row" style="margin-bottom:15px;">
+    <div class="col-md-3">
+      <input type="file" #file placeholder="Choose file" (change)="uploadFile(file.files)" style="display:none;">
+      <button type="button" class="btn btn-success" (click)="file.click()">Upload File</button>
+    </div>
+    <div class="col-md-4">
+      <span class="upload" *ngIf="progress > 0">
+        {{progress}}%
+      </span>
+      <span class="upload" *ngIf="message">
+        {{message}}
+      </span>
+    </div>
+  </div>
+
+  <input (click)="Save()" type="button" style="margin-left:110px;width:55px;" value="Save" />
+
+</form>
+
+

@@ -1,0 +1,32 @@
+<h2>Details</h2>
+<p *ngIf="!SearchData"><em>Loading...</em></p>
+
+
+<table class='table' *ngIf="SearchData">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Address</th>
+      <th>PhoneNo</th>
+      <th>Email</th>
+      <th>State</th>
+      <th>Approved</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let SearchDatain of SearchData | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize">
+      <td>{{ SearchDatain.name }}</td>
+      <td>{{ SearchDatain.address }}</td>
+      <td>{{ SearchDatain.phoneNo }}</td>
+      <td>{{ SearchDatain.email }}</td>
+      <td>{{ SearchDatain.state }}</td>
+      <td>{{ SearchDatain.approved }}</td>
+    </tr>
+  </tbody>
+</table>
+<a (click)='pre()'>
+<<<<< pre
+</a> ||||
+<a (click)='next()'>
+  next >>>>>
+</a>

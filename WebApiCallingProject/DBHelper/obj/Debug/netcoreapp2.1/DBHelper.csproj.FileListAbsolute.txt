@@ -1,0 +1,9 @@
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\bin\Debug\netcoreapp2.1\DBHelper.deps.json
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\bin\Debug\netcoreapp2.1\DBHelper.dll
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.csprojAssemblyReference.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.csproj.CoreCompileInputs.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.AssemblyInfoInputs.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.AssemblyInfo.cs
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\bin\Debug\netcoreapp2.1\DBHelper.pdb
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.dll
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\WebApiCallingProject\DBHelper\obj\Debug\netcoreapp2.1\DBHelper.pdb
